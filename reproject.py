@@ -22,8 +22,8 @@ print(ep, fp)
 input = fp[['원자력', '유류', 'LNG']].to_numpy()
 target = ep.to_numpy()
 
-print(input)
-print(target)
+# print(input)
+# print(target)
 
 
 # 현재 데이터를 그래프로 보기 위해 파트 지정 후 출력
